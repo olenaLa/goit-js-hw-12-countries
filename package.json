@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /goit-js-hw-11-timer/",
+    "build": "parcel build src/index.html --public-url /goit-js-hw-12-countries/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/olenaLa/goit-js-hw-12-countries/issues"
   },
-  "homepage": "https://github.com/olenaLa/goit-js-hw-12-countries#readme",
+  "homepage": "https://olenaLa.github.io/goit-js-hw-12-countries",
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "pnotify": "^5.2.0"
